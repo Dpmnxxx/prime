@@ -1,1 +1,1 @@
-# prime
+# prima calculator
